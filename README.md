@@ -3,6 +3,7 @@
 The Raspberry Pi is a line of tiny single-board computers created by the Raspberry Pi Foundation in collaboration with Broadcom in the United Kingdom. It's a low-cost, credit-card-sized computer with a conventional keyboard and mouse that connects into a computer display or TV. It's a powerful small gadget that allows individuals of all ages to learn about computers and programming languages like Scratch and Python.
 
 • Use of Raspberry Pi in the project: It is the heart of the project as all circuits and modules made are connected and coded on the Raspberry Pi.
+
 • Model Used: Raspberry Pi 3 B+
 
 ### Mini Project Details : 
