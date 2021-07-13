@@ -7,13 +7,17 @@ The Raspberry Pi is a line of tiny single-board computers created by the Raspber
 
 ### Mini Project Details : 
 1. Control Lights: 
+
 Basic LED module connected to a Raspberry Pi can easily control the status (ON / OFF) of the LED, its behaviors (BLINKING) and its illumination (BRIGHTNESS) from simple code. It is a small scale implementation of Smart IoT Lights. 
 
 2. Security System:
+
 With the help of a camera module and a PIR motion sensor connected to a Raspberry Pi, it is possible to capture images when motion is detected. These systems act as security systems to help prevent from theft and burglary.
 
 3. Face Detection:
+
 OpenCV library in Python is widely used for vision inception and face detection can be used for video surveillance, facial recognition, biometrics etc. It can also be advanced by using different machine learning techniques to not just detect a face on the screen but also be able to recognize who it is by learning for sample test data.
 
 4. Coordinate System:
+
 Using the gyroscope sensor to detect the coordinates and accelaration of the Raspberry Pi. The sensor also helps in detection the environment tempurate.
