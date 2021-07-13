@@ -21,3 +21,6 @@ OpenCV library in Python is widely used for vision inception and face detection 
 4. Coordinate System:
 
 Using the gyroscope sensor to detect the coordinates and accelaration of the Raspberry Pi. The sensor also helps in detection the environment tempurate.
+
+
+## Detailed information can be found in the REPORT
